@@ -1,0 +1,72 @@
+SET 4 OUTPUT
+
+Driver_App says: Popping twice:
+16 3.333 Daenerys Targaryen
+Driver_App says: !! ATTEMPT TO POP AN EMPTY STACK !!
+Driver_App says: Popping five times:
+50 2.345 Jorah Mormont
+35 3.123 Jaime Lannister
+16 2.54 Sansa Stark
+36 3.456 Cersei Lannister
+Driver_App says: !! ATTEMPT TO POP AN EMPTY STACK !!
+Driver_App says: Remaining on first stack
+Driver_App says: Remaining on second stack
+13 3.666 Arya Stark
+17 2.75 Rob Stark
+18 3.765 Jon Snow
+45 2.999 Catelyn Stark
+52 3.678 Eddard Stark
+
+SET 3 OUTPUT
+
+Driver_App says: Popping twice:
+35 3.123 Jaime Lannister
+16 2.54 Sansa Stark
+Driver_App says: Popping five times:
+17 2.75 Rob Stark
+18 3.765 Jon Snow
+45 2.999 Catelyn Stark
+52 3.678 Eddard Stark
+50 2.345 Jorah Mormont
+Driver_App says: Remaining on first stack
+36 3.456 Cersei Lannister
+16 3.333 Daenerys Targaryen
+Driver_App says: Remaining on second stack
+13 3.666 Arya Stark
+36 3.456 Cersei Lannister
+16 3.333 Daenerys Targaryen
+
+SET 2 OUTPUT
+
+Driver_App says: Popping twice:
+16 2.54 Sansa Stark
+36 3.456 Cersei Lannister
+Driver_App says: Popping five times:
+18 3.765 Jon Snow
+45 2.999 Catelyn Stark
+52 3.678 Eddard Stark
+50 2.345 Jorah Mormont
+35 3.123 Jaime Lannister
+Driver_App says: Remaining on first stack
+16 3.333 Daenerys Targaryen
+Driver_App says: Remaining on second stack
+13 3.666 Arya Stark
+17 2.75 Rob Stark
+16 3.333 Daenerys Targaryen
+
+SET 1 OUTPUT
+
+Driver_App says: Popping twice:
+36 3.456 Cersei Lannister
+16 3.333 Daenerys Targaryen
+Driver_App says: Popping five times:
+45 2.999 Catelyn Stark
+52 3.678 Eddard Stark
+50 2.345 Jorah Mormont
+35 3.123 Jaime Lannister
+16 2.54 Sansa Stark
+Driver_App says: Remaining on first stack
+Driver_App says: Remaining on second stack
+13 3.666 Arya Stark
+17 2.75 Rob Stark
+18 3.765 Jon Snow

@@ -1,0 +1,4 @@
+Lannister,Cersei,36,3.456
+Stark,Sansa,16,2.540
+Lannister,Jaime,35,3.123
+Mormont,Jorah,50,2.345

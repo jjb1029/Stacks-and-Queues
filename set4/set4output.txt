@@ -1,0 +1,16 @@
+Driver_App says: Pop twice:
+16 3.333 Daenerys Targaryen
+Driver_App says: attempt to pop an empty stack
+Driver_App says: Pop five time:
+50 2.345 Jorah Mormont
+35 3.123 Jaime Lannister
+16 2.54 Sansa Stark
+36 3.456 Cersei Lannister
+Driver_App says: attempt to pop an empty stack
+Driver_App says: Remaining on first stack
+Driver_App says: Remaining on second stack
+13 3.666 Arya Stark
+17 2.75 Rob Stark
+18 3.765 Jon Snow
+45 2.999 Catelyn Stark
+52 3.678 Eddard Stark
