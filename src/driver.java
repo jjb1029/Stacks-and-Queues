@@ -53,9 +53,9 @@ public class driver
 		}
 		
 		/* Couldn't really figure out how to copy a stack to make another stack without
-		 * utilizing a copy constructor. We thought about popping values off of the stack
+		 * utilizing a copy constructor. I thought about popping values off of the stack
 		 * and into a new one (then popping those onto another to get correct order), 
-		 * but then the first stack would be empty. So, instead, we just
+		 * but then the first stack would be empty. So, instead, I just
 		 * made two stacks to start with, put in the same data, and performed the same
 		 * operations on both of them. Obviously not the best solution.
 		 */

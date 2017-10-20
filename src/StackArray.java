@@ -89,10 +89,9 @@ public class StackArray
 	
 	public Student pop() throws Exception
 	{
-		ArrayIndexOutOfBoundsException ex = new ArrayIndexOutOfBoundsException();
 		if(!isEmpty())
 			return theStack[top--];
 		else
-			throw ex;	
+			throw new ArrayIndexOutOfBoundsException();
 	}
 }
